@@ -32,7 +32,7 @@ You will have to [**generate a new SMIBIOS**](https://github.com/corpnewt/GenSMB
 
 
 ## Not working
-* Headset input
+* Headset microphone
 
 
 ## BIOS Settings
