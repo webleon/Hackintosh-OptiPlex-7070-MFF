@@ -22,7 +22,8 @@ You will have to [**generate a new SMIBIOS**](https://github.com/corpnewt/GenSMB
 
 ## Working
 * CPU Turbo Boost & Thermal Throttling
-* Radeon™ RX 560 & iGPU acceleration
+* Dual Display up to 4k60Hz
+* iGPU acceleration
 * Headset output / Line output
 * All USB Ports
 * LAN & Wireless Network
