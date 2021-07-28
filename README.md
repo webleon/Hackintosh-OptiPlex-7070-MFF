@@ -11,7 +11,7 @@ You will have to [**generate a new SMIBIOS**](https://github.com/corpnewt/GenSMB
 
 
 ## Hardware Specs
-* **Desktop Computer**: [Dell OptiPlex 7070 Mmall Form Factor](https://www.dell.com/tc/business/p/optiplex-7070-micro/pd) 
+* **Desktop Computer**: [Dell OptiPlex 7070 Mmall Form Factor 65W](https://www.dell.com/tc/business/p/optiplex-7070-micro/pd) 
 * **CPU**: [Intel® Core™ i7-9700](https://ark.intel.com/content/www/us/en/ark/products/191792/intel-core-i7-9700-processor-12m-cache-up-to-4-70-ghz.html)
 * **iGPU**: Intel® UHD Graphics 630
 * **RAM**: 64GB DDR4 2666 Daul Channel
