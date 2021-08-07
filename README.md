@@ -1,5 +1,5 @@
 # Hackintosh-OptiPlex-7070-MFF
-![](https://raw.githubusercontent.com/webleon/Hackintosh-OptiPlex-7070-MFF/main/images/about20210728.png)
+![](https://raw.githubusercontent.com/webleon/Hackintosh-OptiPlex-7070-MFF/main/Images/about20210728.png)
 
 **Opencore Bootloader 0.7.1. Tested on Big Sur 11.5.1**
 
