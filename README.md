@@ -24,7 +24,7 @@ You will have to [**generate a new SMIBIOS**](https://github.com/corpnewt/GenSMB
 * CPU Turbo Boost & Thermal Throttling
 * Dual Display up to 4k60Hz
 * iGPU acceleration
-* Headset output / Line output
+* Front panel Headset (install ComboJack to enable Mic) and Line-out
 * All USB Ports
 * LAN & Wireless Network
 * Airdrop & Airplay
@@ -32,7 +32,7 @@ You will have to [**generate a new SMIBIOS**](https://github.com/corpnewt/GenSMB
 
 
 ## Not working
-* Headset microphone
+* ~~Headset microphone~~
 
 
 ## BIOS Settings
